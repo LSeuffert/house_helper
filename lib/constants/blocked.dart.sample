@@ -1,0 +1,3 @@
+final List<String> BANNED_MACS = [];
+final List<String> BANNED_NAMES = [];
+final List<String> BANNED_IPS = [];

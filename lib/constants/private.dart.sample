@@ -1,0 +1,2 @@
+final String USERNAME = 'username';
+final String PASSWORD = 'password';
